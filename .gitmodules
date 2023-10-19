@@ -1,0 +1,3 @@
+[submodule "BMU"]
+	path = BMU
+	url = git@github.com:RajeshKumar1331/BMU.git
